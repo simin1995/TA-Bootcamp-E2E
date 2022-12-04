@@ -4,7 +4,7 @@
 	"step_definition" :"step_definitions//E2Etest.js"
     },
     {
-	"feature_name": "shopCart.feature",
-	"step_definition" :"step_definitions//shopCart.js"
+	"feature_name": "itemPage.feature",
+	"step_definition" :"step_definitions//itemPage.js"
     }
 ]

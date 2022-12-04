@@ -47,5 +47,5 @@ When("An user clicks on View Details button of the first item", async () => {
 });
 
 Then("An user is navigated to the item page", async () => {
-    await expect(browser).toHaveTitle('Nintendo Switch Console with Neon Blue and Neon Red Joy-Con - Newegg.com');
+    await expect(browser).toHaveTitleContaining('Nintendo Switch Console with Neon Blue and Neon Red Joy-Con');
 });

@@ -18,7 +18,7 @@
   "scripts": {
     "wdio": "wdio run wdio.conf.js",
     "E2Etest": "wdio run wdio.conf.js --spec E2Etest.feature",
-    "shopCart": "wdio run wdio.conf.js --spec shopCart.feature"
+    "itemPage": "wdio run wdio.conf.js --spec itemPage.feature"
   },
   "dependencies": {
     "cucumber-js-glue": "^1.4.0"

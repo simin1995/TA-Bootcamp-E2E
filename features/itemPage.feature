@@ -1,5 +1,5 @@
 @wip
-Feature: An user search the items and add or delete items to/from shopping cart
+Feature: An user searches an item and click on it to see more details
 
 @searchItems
 Scenario: An user searches Switch and the items appear
