@@ -14,6 +14,6 @@ In this project I try to conduct an E2E test on https://www.newegg.com/ with Cuc
 > 1. Run the command ***yarn E2Etest*** in the terminal.
 > 2. The result will be displayed.
 
-### Second feature: Search bar & cookie banner & item page
+#### Second feature: Search bar & cookie banner & item page
 > 1. Run the command ***yarn itemPage*** in the terminal.
 > 2. The result will be displayed.
